@@ -1,0 +1,1504 @@
+/*1024-1199*/
+@media screen and (max-width: 1199px) {
+
+    header, .help, .feature, .job, .answers {
+        padding: 0 20px;
+    }
+
+    .help {
+        margin: 80px 0;
+    }
+
+    .help-team-info {
+        margin-right: 30px;
+    }
+
+    .help-photo {
+        margin: 0 auto;
+        width: 445px;
+    }
+
+    .help-team-info {
+        gap: 15px;
+    }
+
+    .feature-all {
+        max-width: 675px;
+        margin: 0 auto;
+    }
+
+    .features {
+        padding: 50px 0;
+    }
+
+    .feature-block {
+        margin-bottom: 30px;
+    }
+
+    .job {
+        margin-top: 50px;
+        margin-left: 25px;
+        max-height: 600px;
+    }
+
+    .job-advantages {
+        gap: 90px 25px;
+    }
+
+    .job-about {
+        margin-bottom: 80px;
+    }
+
+    .answers {
+        margin: 50px 0;
+    }
+
+    .team {
+        padding: 50px 20px 20px 20px;
+    }
+
+    #team-category .slick-prev {
+        left: 380px;
+    }
+
+    #team-category .slick-next {
+        right: 380px;
+    }
+
+    .department {
+        padding: 50px 20px;
+    }
+
+    .reviews {
+        padding: 60px 20px;
+    }
+
+    .other {
+        margin-top: 0;
+    }
+
+    .other .container {
+        padding: 0 20px;
+    }
+
+    .contacts {
+        padding: 50px 20px;
+    }
+
+    .footer {
+        padding: 60px 20px;
+    }
+
+    .footer-number {
+        width: 191px;
+    }
+}
+
+/*768-1023*/
+@media screen and (max-width: 1023px) {
+    header, .help, .feature, .job, .answers {
+        padding: 0;
+    }
+
+    .header {
+        padding: 44px 31px;
+    }
+
+    .header .container {
+        align-items: baseline;
+        padding: 0;
+    }
+
+    .header .info-icons a {
+        margin-right: 20px;
+    }
+
+    .menu ul {
+        width: 344px;
+    }
+
+    .info {
+        flex-direction: column-reverse;
+    }
+
+    .header .info-icons {
+        margin-left: 10px;
+    }
+
+    .header .number {
+        margin-bottom: 24px;
+        width: 190px;
+    }
+
+    .titles h1 {
+        padding-top: 124px;
+        padding-bottom: 40px;
+        font-size: 45px;
+    }
+
+    .second-title {
+        font-size: 18px;
+        max-width: 312px;
+    }
+
+    .btn {
+        font-size: 18px;
+        max-width: 281px;
+        margin-bottom: 93px;
+        height: 58px;
+        box-sizing: border-box;
+    }
+
+    .title-photo {
+        right: -50px;
+        max-width: 399px;
+    }
+
+    .rating {
+        justify-content: start;
+    }
+
+    .mark {
+        margin-right: 60px;
+    }
+
+    .help {
+        margin: 130px 0;
+    }
+
+    .help-title {
+        max-width: 575px;
+    }
+
+    .help-photo {
+        grid-column: 1 / 4;
+        margin: 0 auto;
+        padding-bottom: 80px;
+        width: 503px;
+        transform: scale(1.1);
+    }
+
+    .help-team {
+        margin-bottom: 55px;
+    }
+
+    .help-team-info {
+        grid-column: 1 / 4;
+        margin: 0 auto;
+        gap: 61px 52px;
+    }
+
+    .features {
+        padding: 80px 20px;
+    }
+
+    .feature-all {
+        justify-content: center;
+    }
+
+    .features {
+        background-position: right;
+    }
+
+    .feature {
+        padding: 0 13px;
+    }
+
+    .feature:first-child .feature-block .feature-title {
+        padding-top: 10px;
+    }
+
+    .feature:hover {
+        transform: none;
+    }
+
+    .job {
+        margin: 0;
+        padding: 130px 35px 80px 35px;
+        background-position: right;
+        max-height: 500px;
+    }
+
+    .job-about {
+        margin-bottom: 100px;
+    }
+
+    .job-rating {
+        width: 180px;
+    }
+
+    .job-rating .job-text {
+        width: 140px;
+        left: 22px;
+        top: -42px;
+    }
+
+    .job-number {
+        height: 84px;
+    }
+
+    .job-advantages {
+        gap: 78px 82px;
+        grid-template-columns: repeat(6, 1fr);
+    }
+
+    .block-four {
+        grid-column: 1 / 3;
+    }
+
+    .block-five {
+        grid-column: 3 / 5;
+    }
+
+    .block-six {
+        grid-column: 5 / 7;
+    }
+
+    .answers {
+        margin: 130px 31px 130px 33px;
+    }
+
+    .acor-container label {
+        display: flex;
+        align-items: center;
+        position: relative;
+    }
+
+    .acor-container label p {
+        margin-right: 20px;
+    }
+
+    .acor-container label:before {
+        position: absolute;
+        right: 3%;
+        top: 30%;
+    }
+
+    .team {
+        padding: 80px 0 20px 0;
+    }
+
+    .slick-initialized .slick-slide {
+        padding: 80px 30px 100px 30px;
+    }
+
+    #team-category .slick-prev {
+        left: 255px;
+    }
+
+    #team-category .slick-next {
+        right: 255px;
+    }
+
+    #team-category .slick-dots {
+        bottom: 0px;
+    }
+
+    .department {
+        padding: 80px 32px 175px 32px;
+    }
+
+    .department-sales {
+        width: 220px;
+    }
+
+    .department-sales-title {
+        padding-top: 20px;
+        padding-bottom: 15px;
+    }
+
+    .department-sales-text {
+        padding-bottom: 20px;
+    }
+
+    .department-sales-bottom .department-sales {
+        margin-right: 22px;
+    }
+
+    .department-sales-bottom .department-sales-title {
+        padding-top: 27px;
+        padding-bottom: 10px;
+    }
+
+    .department-sales-bottom .department-sales-text {
+        padding-bottom: 36px;
+    }
+
+    .leftArrow {
+        width: 120px;
+        height: 100px;
+        top: -75%;
+    }
+
+    .rightArrow {
+        width: 120px;
+        height: 100px;
+        top: -75%;
+    }
+
+    .centerArrow {
+        bottom: 180px;
+    }
+
+    .review-title {
+        padding-bottom: 80px;
+    }
+
+    .review-block {
+        flex-wrap: wrap;
+    }
+
+    .review-image {
+        max-width: 514px;
+        margin-right: 0;
+        margin-bottom: 60px;
+    }
+
+    .reviews-one {
+        display: none;
+    }
+
+    .reviews-two {
+        display: block;
+    }
+
+    .review-left-border, .review-right-border {
+        display: none;
+    }
+
+    .other {
+        margin-top: 130px;
+    }
+
+    .other-block {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .order-text {
+        font-family: GilroyMedium, sans-serif;
+        font-size: 45px;
+        line-height: 53px;
+        color: #2E295F;
+        margin-bottom: 40px;
+        margin-top: 0;
+    }
+
+    .contacts {
+        padding: 130px 33px;
+    }
+
+    .map {
+        height: 165px;
+    }
+
+    .address {
+        margin-left: 13px;
+    }
+
+    .footer {
+        padding: 60px 32px;
+    }
+
+    .footer .container {
+        grid-template-columns: 172px 180px 72px;
+        grid-template-rows: 30px 52px 15px;
+        grid-gap: 0 125px;
+        justify-content: space-between;
+    }
+
+    .footer-menu {
+        grid-column: 3 / 4;
+        grid-row: 1 / 4;
+        width: 72px;
+    }
+
+    .footer .menu ul {
+        width: 72px;
+        flex-wrap: wrap;
+        line-height: 0;
+        justify-content: end;
+    }
+
+    .footer .menu ul li {
+        line-height: 1;
+        margin-bottom: 15px;
+        margin-right: 0;
+    }
+
+    .footer-icons {
+        grid-column: 2 / 4;
+        grid-row: 2 / 3;
+    }
+
+    .footer-icons .info-icons {
+        justify-content: normal;
+        margin-left: 10px;
+    }
+
+    .links-right {
+        grid-column: 2 / 3;
+        grid-row: 3 / 4;
+        font-family: GilroyRegular, sans-serif;
+        font-size: 12px;
+        line-height: 14px;
+        color: #FFFFFF;
+        margin-right: 0;
+    }
+
+    .links-right span {
+        width: 180px;
+    }
+
+    .footer-number {
+        grid-column: 2 / 4;
+        grid-row: 1 / 2;
+        text-align: center;
+        width: 180px;
+    }
+
+    .footer-number .number a {
+        font-size: 19px;
+    }
+
+    .footer-number .number {
+        display: initial;
+    }
+
+    .arrow-back {
+        padding: 15px;
+    }
+
+    .arrow-back:before, .arrow-back:after {
+        width: 50%;
+        height: 50%;
+    }
+}
+
+/*580-767*/
+@media screen and (max-width: 767px) {
+
+    .header {
+        padding: 40px 15px;
+    }
+
+    .header .container {
+        align-items: center;
+    }
+
+    .header .info-icons a:last-child {
+        margin: 0;
+    }
+
+    .info {
+        flex-direction: column-reverse;
+        margin-left: 0;
+        align-items: center;
+    }
+
+    .header .menu {
+        margin-bottom: 16px;
+    }
+
+    .header .menu ul li {
+        margin-right: 20px;
+    }
+
+    .titles h1 {
+        padding-top: 60px;
+    }
+
+    .rating {
+        flex-direction: column;
+        align-items: start;
+    }
+
+    .help {
+        margin: 60px 15px;
+    }
+
+    .help-title-main {
+        font-size: 35px;
+    }
+
+    .features {
+        padding: 60px 15px;
+    }
+
+    .feature-block {
+        width: 345px;
+        margin-bottom: 50px;
+        padding-top: 41px;
+        padding-bottom: 41px;
+    }
+
+    .job {
+        padding: 60px 15px;
+        max-height: 700px;
+    }
+
+    .job-about {
+        font-size: 35px;
+    }
+
+    .job-advantages {
+        gap: 78px 0;
+        grid-template-columns: 1fr 1fr;
+        justify-items: center;
+    }
+
+    .job-rating {
+        width: 165px;
+    }
+
+    .block-one {
+        grid-column: 1 / 2;
+        animation: none;
+    }
+
+    .block-two {
+        grid-column: 2 / 3;
+        animation: none;
+    }
+
+    .block-three {
+        grid-column: 1 / 2;
+        grid-row: 2 / 3;
+        animation: none;
+    }
+
+    .block-four {
+        grid-column: 2 / 3;
+        grid-row: 2 / 3;
+        animation: none;
+    }
+
+    .block-five {
+        grid-column: 1 / 2;
+        grid-row: 3 / 4;
+        animation: none;
+    }
+
+    .block-six {
+        grid-column: 2 / 3;
+        grid-row: 3 / 4;
+        animation: none;
+    }
+
+    .acor-container label {
+        font-size: 20px;
+    }
+
+    .answers {
+        margin: 60px 15px;
+    }
+
+    .answer-main {
+        font-size: 35px;
+    }
+
+    .acor-container label {
+        position: relative;
+        height: 118px;
+        display: flex;
+        align-items: center;
+    }
+
+    .acor-container label:before {
+        position: absolute;
+        top: 33%;
+        right: 3%;
+    }
+
+    .department {
+        padding: 60px 15px;
+    }
+
+    .department .container {
+        max-width: 550px;
+    }
+
+    .department-sales {
+        padding: 23px 8px;
+        height: 140px;
+        margin: 0 auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .department-sales-top {
+        margin-bottom: 30px;
+    }
+
+    .department-sales-bottom {
+        flex-wrap: wrap;
+    }
+
+    .department-sales-bottom .department-sales {
+        margin-bottom: 30px;
+    }
+
+    .department-image {
+        width: 550px;
+        top: -35%;
+        left: -76%;
+    }
+
+    .department-image img {
+        max-width: 100%;
+    }
+
+    .department-sales-title {
+        font-size: 13px;
+        padding: 0 0 5px 0;
+        line-height: normal;
+    }
+
+    .department-sales-bottom .department-sales-title {
+        padding: 0 0 5px 0;
+    }
+
+    .department-sales-bottom .department-sales-text {
+        padding: 0;
+    }
+
+    .department-sales-text {
+        font-size: 13px;
+        padding: 0;
+    }
+
+    .leftArrow {
+        width: 32px;
+        height: 98px;
+        top: -100px;
+    }
+
+    .rightArrow {
+        border-top: none;
+        width: 0;
+        height: 201px;
+        top: -202px;
+        left: 114px;
+    }
+
+    .centerArrow {
+        border-right: 1px solid #2E295F;
+        width: 32px;
+        height: 98px;
+        top: -100px;
+        border-top: 1px solid #2E295F;
+        border-left: none;
+    }
+
+    .reviews {
+        padding: 60px 15px;
+    }
+
+    .review-title {
+        padding-bottom: 40px;
+    }
+
+    .other {
+        margin-top: 60px;
+    }
+
+    .order-text {
+        font-size: 45px;
+        text-align: center;
+    }
+
+    .other-offer-text {
+        max-width: 500px;
+    }
+
+    .contacts {
+        padding: 60px 15px;
+    }
+
+    .contacts .container {
+        position: relative;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .contacts-title {
+        font-size: 35px;
+        order: 1;
+        margin-bottom: 0;
+    }
+
+    .contacts-right-border {
+        top: 190px;
+    }
+
+    .address-street {
+        padding: 20px;
+    }
+
+    .address-icons {
+        margin-bottom: 20px;
+    }
+
+    .address {
+        margin: 40px auto -80px auto;
+        position: relative;
+        order: 2;
+        max-width: 311px;
+    }
+
+    .map {
+        order: 3;
+    }
+
+    .footer {
+        padding: 60px 15px;
+    }
+
+    .footer .container {
+        grid-template-columns: none;
+        grid-gap: 0;
+    }
+
+    .footer-menu {
+        grid-column: 2/3;
+    }
+
+    .footer-icons, .footer-number, .links-right {
+        grid-column: 3/4;
+        justify-content: end;
+    }
+
+    .footer-icons .info-icons {
+        justify-content: end;
+    }
+
+    .footer-number .number {
+        display: block;
+        margin: 0;
+        width: 180px;
+        text-align: right;
+    }
+
+    .footer-number .number a {
+        font-size: 18px;
+    }
+
+    .footer-icons .info-icons a:last-child {
+        margin: 0;
+    }
+
+    .links-right {
+        text-align: start;
+    }
+
+    .footer .menu ul {
+        justify-content: center;
+    }
+
+    .arrow-back {
+        right: 5px;
+        bottom: 5px;
+    }
+}
+
+/*480-579*/
+@media screen and (max-width: 579px) {
+
+    #burger {
+        display: block;
+    }
+
+    .menu-close {
+        display: block;
+    }
+
+    .header .menu {
+        display: none;
+    }
+
+    .menu-close {
+        position: absolute;
+        top: 40px;
+        right: 30px;
+    }
+
+    .menu-close img {
+        width: 20px;
+        height: 20px;
+    }
+
+    .header .menu ul {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        max-width: 100%;
+    }
+
+    .burger-line {
+        border-bottom: 1px solid;
+        width: 300px;
+    }
+
+    .header .menu ul li a {
+        font-size: 15px;
+        color: #1B1525;
+    }
+
+    .header .menu ul li {
+        margin-right: 40px;
+    }
+
+    .header .info-icons {
+        z-index: 120;
+        position: fixed;
+        top: 335px;
+        left: 0;
+        fill: #1B1525;
+        display: none;
+        padding-top: 40px;
+        width: 100%;
+        margin-left: 0;
+    }
+
+    .header .info-icons a {
+        margin-right: 40px;
+    }
+
+    .burger-line {
+        position: absolute;
+        border-top: 1px solid #2E295F;
+        width: 176px;
+        top: 1px;
+        margin-right: 30px;
+    }
+
+    .header .info-icons svg {
+        fill: #1B1525;
+    }
+
+    .header .menu {
+        display: none;
+        background: url("../img/buregerMenu.png");
+        background-size: cover;
+        text-align: center;
+        padding: 160px 0;
+        z-index: 120;
+        position: fixed;
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        top: 0;
+        left: 0;
+    }
+
+    .header .number {
+        margin-bottom: 0;
+    }
+
+    .number a {
+        font-size: 18px;
+    }
+
+    .titles h1 {
+        font-size: 35px;
+        text-align: center;
+        padding: 70px 0 30px 0;
+        line-height: 41px;
+    }
+
+    .second-title {
+        margin: 0 auto;
+        text-align: center;
+        padding-bottom: 100px;
+    }
+
+    .btn {
+        max-width: 250px;
+    }
+
+    .help-team-blocks {
+        width: 165px;
+    }
+
+    .help-photo {
+        width: 340px;
+    }
+
+    .help-team-blocks {
+        font-size: 13px;
+    }
+
+    .feature-question {
+        font-size: 35px;
+        padding-bottom: 30px;
+    }
+
+    .feature:last-child .feature-block {
+        margin-bottom: 0;
+    }
+
+    .job-rating .job-text {
+        left: 14px;
+    }
+
+    .acor-container label {
+        font-size: 18px;
+        line-height: 25px;
+    }
+
+    .acor-container input:checked + label + .acor-body {
+        font-size: 15px;
+    }
+
+    .team-title {
+        font-family: GilroyMedium, sans-serif;
+        font-size: 35px;
+    }
+
+    .team-text {
+        font-size: 15px;
+    }
+
+    .team {
+        padding: 60px 15px;
+    }
+
+    .team-info {
+        display: flex;
+        flex-direction: column;
+        height: 80px;
+        justify-content: center;
+    }
+
+    .slick-center .team-photo {
+        transform: none;
+    }
+
+    .slick-initialized .slick-slide {
+        padding: 0 30px;
+    }
+
+    .department .container {
+        max-width: 450px;
+    }
+
+    .department-sales {
+        width: 164px;
+    }
+
+    .department-sales-bottom .department-sales {
+        margin-right: 29px;
+    }
+
+    .department-image {
+        width: 435px;
+        left: -80%;
+    }
+
+    .rightArrow {
+        left: 82px;
+    }
+
+    .leftArrow {
+        width: 23px;
+        left: 87px;
+    }
+
+    .centerArrow {
+        width: 22px;
+        left: 51px;
+    }
+
+    .review-title {
+        font-family: GilroyMedium, sans-serif;
+        font-size: 35px;
+    }
+
+    .review-texts-block-left {
+        margin: 0 15px 30px 12px;
+    }
+
+    .reviews-two {
+        max-width: 420px;
+    }
+
+    #more {
+        display: none;
+    }
+
+    #more1 {
+        display: none;
+    }
+
+    #more2 {
+        display: none;
+    }
+
+    #more3 {
+        display: none;
+    }
+
+    #myBtn {
+        display: block;
+    }
+
+    #myBtn1 {
+        display: block;
+    }
+
+    #myBtn2 {
+        display: block;
+    }
+
+    #myBtn3 {
+        display: block;
+    }
+
+    .review-texts-block-right {
+        padding: 20px 20px 55px 0;
+    }
+
+    .order-text {
+        font-size: 35px;
+    }
+
+    .order-block {
+        width: 400px;
+        padding: 20px;
+    }
+
+    .order-title {
+        font-size: 15px;
+    }
+}
+
+/*375-479*/
+@media screen and (max-width: 479px) {
+
+    .header {
+        overflow: inherit;
+    }
+
+    .btn {
+        width: 100%;
+        position: relative;
+        bottom: -338px;
+        z-index: 2;
+        left: 0;
+        height: 68px;
+        max-width: 450px;
+    }
+
+    .title-photo {
+        right: 0;
+        max-width: 399px;
+        bottom: 20px;
+    }
+
+    .rating {
+        flex-direction: unset;
+        position: absolute;
+        bottom: -80px;
+        width: 350px;
+        justify-content: space-around;
+    }
+
+    .stars, .hours {
+        font-size: 20px;
+        justify-content: center;
+    }
+
+    .recall, .fast-hours {
+        font-size: 14px;
+        text-align: center;
+        line-height: 1;
+    }
+
+    .stars img {
+        margin-top: 7px;
+        width: 20px;
+        height: 20px;
+        margin-left: 8px;
+    }
+
+    .mark, .time {
+        width: 113px;
+        margin: 0;
+    }
+
+    .help {
+        margin: 160px 15px 60px 15px;
+    }
+
+    .help-photo {
+        width: 320px;
+        padding-bottom: 40px;
+    }
+
+    .help-team-info {
+        gap: 25px 15px;
+    }
+
+    .help-title-main {
+        font-size: 25px;
+        margin-bottom: 20px;
+    }
+
+    .help-team {
+        font-size: 15px;
+        margin-bottom: 50px;
+        line-height: 17px;
+    }
+
+    .help-team-blocks:first-child .help-team-blocks-text {
+        width: 101px;
+    }
+
+    .feature-question {
+        font-size: 25px;
+        padding-bottom: 30px;
+    }
+
+    .feature-title {
+        font-size: 15px;
+    }
+
+    .feature-text {
+        width: 222px;
+        margin: 0 auto;
+        font-size: 13px;
+    }
+
+    .feature-text:last-child {
+        width: 227px;
+    }
+
+    .job {
+        background: none;
+        padding: 60px 15px 153px 15px;
+    }
+
+
+    .job .container {
+        max-width: 1140px;
+        margin: 0 auto;
+        background: url(../img/jobBack.png);
+        height: 860px;
+        background-position: center;
+        background-size: cover;
+    }
+
+    .job-about {
+        font-size: 25px;
+        margin-bottom: 50px;
+    }
+
+    .job-number {
+        height: 59px;
+        line-height: 16px;
+    }
+
+    .job-rating .job-text {
+        top: -36px;
+    }
+
+    .block-one {
+        grid-column: 1 / 2;
+        grid-row: 1 / 2;
+    }
+
+    .block-two {
+        grid-column: 2 / 3;
+        grid-row: 2 / 3;
+    }
+
+    .block-three {
+        grid-column: 1 / 2;
+        grid-row: 3 / 4;
+    }
+
+    .block-four {
+        grid-column: 2 / 3;
+        grid-row: 4 / 5;
+    }
+
+    .block-five {
+        grid-column: 1 / 2;
+        grid-row: 5 / 6;
+    }
+
+    .block-six {
+        grid-column: 2 / 3;
+        grid-row: 6 / 7;
+    }
+
+    .job-advantages {
+        gap: 10px 0;
+    }
+
+    .answer-main {
+        font-size: 25px;
+        margin-bottom: 30px;
+    }
+
+    .acor-container label {
+        padding: 11px 15px;
+    }
+
+    .acor-container input:checked + label + .acor-body {
+        padding: 15px;
+        line-height: 18px;
+    }
+
+    .acor-container label:before {
+        top: 42%;
+    }
+
+    .acor-container label p {
+        max-width: 240px;
+    }
+
+    .team-title {
+        font-size: 25px;
+        margin-bottom: 20px;
+        line-height: 29px;
+    }
+
+    .team-text {
+        line-height: 20px;
+        max-width: 330px;
+        padding-bottom: 35px;
+    }
+
+    .department-image {
+        width: 343px;
+        left: -55%;
+        top: 31%;
+    }
+
+    .department-sales-bottom .department-sales {
+        margin-right: 3px;
+    }
+
+    .department .container {
+        max-width: 345px;
+    }
+
+    .leftArrow {
+        left: 61px;
+    }
+
+    .centerArrow {
+        left: 76px;
+    }
+
+    .review-title {
+        font-size: 25px;
+        padding-bottom: 30px;
+    }
+
+    .reviews-two {
+        max-width: 342px;
+    }
+
+    .review-image {
+        margin-bottom: 30px;
+    }
+
+    .order-text {
+        font-size: 25px;
+        margin-bottom: 30px;
+    }
+
+    .order-block {
+        width: 345px;
+        padding: 20px;
+    }
+
+    .input {
+        width: 255px;
+    }
+
+    .reserve-button {
+        width: 255px;
+        font-size: 15px;
+        padding: 10px 30px;
+    }
+
+    .order-main-image {
+        width: 340px;
+    }
+
+    .other-offer {
+        font-size: 15px;
+    }
+
+    .contacts-title {
+        font-size: 25px;
+    }
+
+    .footer .container {
+        justify-content: center;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .management-name {
+        order: 1;
+    }
+
+    .management-info {
+        order: 2;
+        margin-bottom: 35px;
+    }
+
+    .footer-menu {
+        order: 3;
+        margin-bottom: 50px;
+    }
+
+    .footer-icons {
+        order: 5;
+        margin-bottom: 35px;
+    }
+
+    .footer-number {
+        order: 4;
+        margin-bottom: 25px;
+    }
+
+    .links-right {
+        order: 6;
+    }
+
+    #reservation-sent-block {
+        width: 315px;
+    }
+}
+
+/*320-374*/
+@media screen and (max-width: 374px) {
+
+    .btn {
+        bottom: -270px;
+    }
+
+    .rating {
+        width: 305px;
+    }
+
+    .help-photo {
+        width: 275px;
+    }
+
+    .help-team-blocks {
+        width: 138px;
+    }
+
+    .feature-block {
+        width: 290px;
+    }
+
+    .job-rating {
+        width: 144px;
+    }
+
+    .job-rating .job-text {
+        left: 3px;
+    }
+
+    .slick-initialized .slick-slide {
+        width: 250px;
+    }
+
+    .team-info {
+        height: 50px;
+        justify-content: end;
+    }
+
+    .department-sales {
+        width: 140px;
+    }
+
+    .department-sales-text {
+        line-height: 1;
+    }
+
+    .department .container {
+        max-width: 290px;
+    }
+
+    .leftArrow {
+        left: 48px;
+    }
+
+    .centerArrow {
+        left: 66px;
+    }
+
+    .rightArrow {
+        left: 68px;
+    }
+
+    .department-image {
+        width: 288px;
+    }
+
+    .reviews-two {
+        max-width: 290px;
+    }
+
+    #reservation-sent-block {
+        width: 300px;
+    }
+
+    .address {
+        max-width: 280px;
+    }
+
+    .order-block {
+        width: 305px;
+        padding: 30px 20px;
+    }
+
+    .order-title {
+        width: 205px;
+    }
+
+    #reservation-container #reservation-cancel {
+        top: 10px;
+        right: 10px;
+    }
+
+    .order-attantion {
+        width: 260px;
+    }
+
+    .header .menu ul li {
+         margin-right: 0;
+    }
+
+    .header .info-icons {
+        margin-right: 0;
+        margin-left: 25px;
+    }
+
+}
+
+@media screen and (min-width: 347px) and (max-width: 374px) {
+    .btn {
+        bottom: -336px;
+    }
+}
+
+@media screen and (min-width: 340px) and (max-width: 348px) {
+    .btn {
+        bottom: -296px;
+    }
+}
+
