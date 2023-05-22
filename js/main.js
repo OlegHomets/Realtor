@@ -132,7 +132,7 @@ $(document).ready(() => {
             name.css('border-color', 'red');
             hasError = true;
         }
-        if (!number.val().match(/\+\d{1}\(\d{3}\)\d{3}-\d{4}/g)) {
+        if (!number.val()) {
             number.siblings('.reserve-error').show();
             number.css('border-color', 'red');
             hasError = true;
